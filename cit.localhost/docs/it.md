@@ -1,3 +1,27 @@
+# It Department 
+## 3rd semester 
+Here are the subjects of the third semester 
+- Disrete Mathematics
+- Operating Systems
+- Design and Analysis of algorithm
+- Web developement frameworks and practices
+- Ethical Hacking
+- Python Programming
+- Core Course Project - I
+- Employability Enhancement Course - 3
+- Mandatory Course - 1
+# Sem 1
+## Information of Technology
+### Subject OF IT
+-  Introduction Programme
+-  Mathematics-I Calculus and Linear Algebra
+-  Universal Human Values
+-  Heritage of Tamils
+-  Communication English-I
+-  Engineering Physics
+-  Digital System Design
+-  C++ Programming
+-  Employability Enhancement Course-I
 # Semester 4 subjects
 
 ## 10 Subjects
